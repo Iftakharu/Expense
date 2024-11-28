@@ -1,0 +1,1 @@
+enum Expense_category {food,work,leisure,travel}
